@@ -48,4 +48,4 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 [Add license information here if applicable.]
 
 ## Contact
-For questions, contact the Virtual Screen Lab at [insert contact info].
+For contact purposes, you may reach out to Prof. Sergey Shityakov via email at shityakoff@hotmail.com.
