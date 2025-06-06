@@ -1,4 +1,4 @@
-# Chemomodeling analysis of C.sativa compounds as VKOR inhibitors
+# Chemomodeling analysis of C. sativa compounds as VKOR inhibitors
 
 ## Overview
 This repository contains code for analyzing and comparing molecular properties of various compounds, including Quercetin, Gallic Acid, Chlorogenic Acid, Catechol, Caffeic Acid, Coumaric Acid, Rosmarinic Acid, and Warfarin, with a control compound 4-Hydroxycoumarin. The analysis includes molecular weight, LogP, hydrogen bond donors, hydrogen bond acceptors, aromatic rings, and free energy (ΔG), with Tanimoto similarity calculations and Lipinski Rule-of-5 compliance checks.
