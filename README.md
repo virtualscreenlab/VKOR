@@ -45,7 +45,7 @@ python Ts.py
 Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## License
-This project is licensed under the MIT License. 
+This project is licensed under the GNU General Public License.
 
 ## Contact
 For contact purposes, you may reach out to Prof. Sergey Shityakov via email at shityakoff@hotmail.com.
